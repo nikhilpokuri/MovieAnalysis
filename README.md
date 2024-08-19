@@ -2,7 +2,7 @@ Here's the updated README file for your project with the correct dataset details
 
 ### README.md
 
-# MovieLens Data Analysis with PySpark
+# MovieLens Data Analysis
 
 This project provides a detailed analysis of movie data using the MovieLens dataset. The project is structured into several modules, each responsible for different aspects of the data processing and analysis workflow using PySpark.
 
